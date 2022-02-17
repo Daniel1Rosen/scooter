@@ -9,7 +9,7 @@ HTML site editor https://blog-city.info/preview.php?REF=33172
 <br>
 analise https://www.siteseotestcenter.com/domain/concurrent-controls.com
 
-<pre>
+
 Link
 https://amirarticles.com/enjoy-the-roads-with-electric-razor-scooter/
 https://balthazarkorab.com/2022/02/08/benefits-of-electric-razor-scooters/
@@ -22,4 +22,4 @@ https://winnaijablog.com/razor-scooters-the-range/
 https://blognewshub.com/folding-razor-scooter/
 https://www.quickguestpost.com/get-out-and-about-on-a-razor-scooter/
 https://erinmagazine.com/electric-scooter-decisions-for-kids-and-parents/
-</pre>
+
